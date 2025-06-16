@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="http://linkedin.com/in/peterchika/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:youremail@example.com">
@@ -289,7 +289,7 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="http://linkedin.com/in/peterchika/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourtwitter">
