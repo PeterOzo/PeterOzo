@@ -9,7 +9,7 @@
   <a href="http://linkedin.com/in/peterchika/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="po3783a@american.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -82,12 +82,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterOzo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterOzo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterOzo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -95,7 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PeterOzo&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -117,7 +117,7 @@
     <td width="50%">
       <h3 align="center">🎯 Customer Churn Prediction Model</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/churn-prediction">
+        <a href="https://github.com/PeterOzo/churn-prediction">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
         </a>
@@ -128,7 +128,7 @@
     <td width="50%">
       <h3 align="center">💰 Dynamic Pricing Model</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/pricing-optimization">
+        <a href="https://github.com/PeterOzo/pricing-optimization">
           <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
           <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
         </a>
@@ -146,7 +146,7 @@
     <td width="50%">
       <h3 align="center">🚨 Fraud Detection System</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/fraud-analytics">
+        <a href="https://github.com/PeterOzo/fraud-analytics">
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
         </a>
@@ -157,7 +157,7 @@
     <td width="50%">
       <h3 align="center">📈 Financial Forecasting Dashboard</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/financial-dashboard">
+        <a href="https://github.com/PeterOzo/financial-dashboard">
           <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
           <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
         </a>
@@ -175,7 +175,7 @@
     <td width="50%">
       <h3 align="center">🗣️ Speech & Text Analytics Platform</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/speech-analytics">
+        <a href="https://github.com/PeterOzo/speech-analytics">
           <img src="https://img.shields.io/badge/NLP-2E9EF7?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         </a>
@@ -186,7 +186,7 @@
     <td width="50%">
       <h3 align="center">🌐 Web Analytics & Optimization</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/web-analytics">
+        <a href="https://github.com/PeterOzo/web-analytics">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
         </a>
@@ -199,7 +199,7 @@
 
 <div align="center">
   <h3>🔗 More projects available in my repositories!</h3>
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/PeterOzo?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
@@ -261,6 +261,7 @@
 - Delivered strategic recommendations for MyYouthSpan platform development
 
 ### 🦠 COVID-19 Misinformation Detection
+**[View Project](https://peterchika3254.shinyapps.io/METY_ShinyApp/)**
 - Fine-tuned RoBERTa and Llama NLP models achieving 96.75% accuracy
 - Implemented dual-model classification with AUC-ROC score of 0.97
 - Applied advanced NLP techniques for social media analysis
