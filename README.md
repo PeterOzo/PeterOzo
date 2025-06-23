@@ -261,7 +261,7 @@
 - Delivered strategic recommendations for MyYouthSpan platform development
 
 ### 🦠 COVID-19 Misinformation Detection
-**[View Project](https://peterchika3254.shinyapps.io/METY_ShinyApp/)**
+**[View Project](https://peterchika3254.shinyapps.io/covid-misinformation-detector/)**
 - Fine-tuned RoBERTa and Llama NLP models achieving 96.75% accuracy
 - Implemented dual-model classification with AUC-ROC score of 0.97
 - Applied advanced NLP techniques for social media analysis
