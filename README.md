@@ -195,7 +195,7 @@
     <td width="50%">
       <h3 align="center">🛡️ COVID-19 Misinformation Detection System</h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/COVID-19-Misinformation-Detection">
+        <a href="https://github.com/PeterOzo/NLP-COVID-19-Misinformation-Detection-System">
           <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
         <a href="https://peterchika3254.shinyapps.io/covid-misinformation-detector/">
