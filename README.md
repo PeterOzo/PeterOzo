@@ -23,7 +23,7 @@
 
 <img align="right" alt="Data Science" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Senior Data Scientist & Machine Learning Engineer** with extensive expertise in **financial technology**, **advanced analytics**, and **production-ready AI solutions**. Currently pursuing dual Master's degrees in **Analytics** and **Data Science** at American University while serving as a Graduate Assistant for Statistical Machine Learning and Data Science Applications.
+**Senior Data Scientist & Machine Learning Engineer** with extensive expertise in **financial technology**, **advanced analytics**, and **production-ready AI solutions**. Currently pursuing dual Master's degrees in **Business Analytics & AI ** and **Data Science** at American University while serving as a Graduate Assistant for Statistical Machine Learning and Data Science Applications.
 
 - 🔭 Leading **enterprise-scale ML projects** in healthcare analytics, financial risk modeling, and customer intelligence
 - 🌱 Advancing research in **deep learning**, **MLOps**, and **real-time analytics systems**
