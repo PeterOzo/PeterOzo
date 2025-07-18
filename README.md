@@ -344,7 +344,7 @@
     <td width="50%">
       <h3 align="center">🛡️ HateMemeDetector: Multimodal Hate Speech Detection</h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/HateMemeDetector">
+        <a href="https://github.com/PeterOzo/AdML-Multimodal-Hate-Speech-Detection">
           <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
         <br>
@@ -449,7 +449,7 @@
 - **Research Publication**: [Executive Technical Report](https://github.com/PeterOzo/Real-Time-Pricing-Optimization-for-Auto-Loans/blob/main/README_Paper_on_Real_Time_Pricing_Optimization_for_Auto_Loans.pdf)
 
 ### 🛡️ **Multimodal AI & Computer Vision**
-**[HateMemeDetector: Multimodal Hate Speech Detection](https://github.com/PeterOzo/HateMemeDetector)**
+**[HateMemeDetector: Multimodal Hate Speech Detection](https://github.com/PeterOzo/AdML-Multimodal-Hate-Speech-Detection)**
 - **Multimodal Excellence**: 66% accuracy combining BERT (text) and ResNet50 (images) with advanced fusion
 - **Technical Innovation**: First comprehensive comparison of CCA vs IVA fusion techniques
 - **Social Impact**: $3.5M annual value in content moderation and brand protection
