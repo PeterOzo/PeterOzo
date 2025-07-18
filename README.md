@@ -137,6 +137,9 @@
    <td width="50%">
      <h3 align="center">🎯 AnalyticsPro: Speech Emotion Recognition Platform</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Speech-and_Text_Analytics-Platform">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
        <a href="https://speech-and-text-analytics-platform-kqdgy2ns3bjmhqt9c26ysa.streamlit.app/">
          <img src="https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-brightgreen" alt="Live Demo" />
        </a>
@@ -151,6 +154,9 @@
    <td width="50%">
      <h3 align="center">💼 Advanced Customer Churn Prediction Engine</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Real_Time_Customer_Churn_Prediction-Engine_Updated">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
        <a href="https://customer-lifetime-value-analytics-blaw29y6yqxtkcslriywxb.streamlit.app/">
          <img src="https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-brightgreen" alt="Live Demo" />
        </a>
@@ -172,6 +178,9 @@
    <td width="50%">
      <h3 align="center">📱 MyYouthSpan: Health App Success Prediction</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/App-Success-Prediction-and-Analysis">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
        <a href="https://peterchika3254.shinyapps.io/METY_ShinyApp/">
          <img src="https://img.shields.io/badge/Live_Demo-Shinyapp_Cloud-brightgreen" alt="Live Demo" />
        </a>
@@ -186,6 +195,9 @@
    <td width="50%">
      <h3 align="center">🛡️ COVID-19 Misinformation Detection System</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/COVID-19-Misinformation-Detection">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
        <a href="https://peterchika3254.shinyapps.io/covid-misinformation-detector/">
          <img src="https://img.shields.io/badge/Live_Demo-Shinyapp_Cloud-brightgreen" alt="Live Demo" />
        </a>
@@ -207,6 +219,9 @@
    <td width="50%">
      <h3 align="center">🏦 Real-Time Auto Loan Pricing Optimization</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Real-Time-Pricing-Optimization-for-Auto-Loans">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
        <a href="https://aca-pricing-optimization-dashboard-tmcdvlrjildupmaracljvv.streamlit.app/">
          <img src="https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-brightgreen" alt="Live Demo" />
        </a>
@@ -221,6 +236,9 @@
    <td width="50%">
      <h3 align="center">📊 Advanced A/B Testing Platform</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/AB-Testing-Analytics-Pro">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
        <a href="https://ab-testing-analytics-pro-ecff6xdymkbhx3ke2axcnx.streamlit.app/">
          <img src="https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-brightgreen" alt="Live Demo" />
        </a>
@@ -242,6 +260,10 @@
    <td width="50%">
      <h3 align="center">📉 Vector Autoregression (VAR) Monetary Policy Analysis</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Vector-Autoregression-VAR-Analysis">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
+       <br>
        <img src="https://img.shields.io/badge/Research-Federal_Reserve_Policy-blue.svg" alt="Research Focus" />
        <img src="https://img.shields.io/badge/Data-195_Quarters-orange.svg" alt="Data Coverage" />
        <p><strong>Tech Stack:</strong> VAR(8) Modeling, Granger Causality, FRED API, Advanced Time Series</p>
@@ -252,6 +274,10 @@
    <td width="50%">
      <h3 align="center">📰 NLP Financial News Classification</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Financial-News-NLP-Classification-System">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
+       <br>
        <img src="https://img.shields.io/badge/Accuracy-82.62%25-success.svg" alt="Accuracy" />
        <img src="https://img.shields.io/badge/Processing-50K_Articles-blue.svg" alt="Scale" />
        <p><strong>Tech Stack:</strong> TF-IDF, Advanced NLP, Multi-Text Classification, Financial Content Analysis</p>
@@ -269,6 +295,10 @@
    <td width="50%">
      <h3 align="center">⚖️ SVM Loan Default Prediction with Class Balancing</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Advanced-ML-Finance-SVM-Ensemble-Analysis">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
+       <br>
        <img src="https://img.shields.io/badge/Improvement-0%25_to_99%25_Recall-green.svg" alt="Improvement" />
        <img src="https://img.shields.io/badge/Dataset-86K_Loans-orange.svg" alt="Dataset Size" />
        <p><strong>Tech Stack:</strong> Support Vector Machines, Class Imbalance Handling, Feature Engineering</p>
@@ -279,6 +309,10 @@
    <td width="50%">
      <h3 align="center">🌳 Ensemble Income Prediction Analysis</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Advanced-ML-Finance-SVM-Ensemble-Analysis">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
+       <br>
        <img src="https://img.shields.io/badge/Best_Model-85.8%25_Accuracy-success.svg" alt="Best Model" />
        <img src="https://img.shields.io/badge/Method-Gradient_Boosting-blue.svg" alt="Method" />
        <p><strong>Tech Stack:</strong> Random Forest, Gradient Boosting, Decision Trees, Comparative Analysis</p>
@@ -296,6 +330,10 @@
    <td width="50%">
      <h3 align="center">📈 S&P 500 ARIMA Time Series Forecasting</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/SP500-Time-Series-ARIMA-Financial-Forecasting">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
+       <br>
        <img src="https://img.shields.io/badge/Model-ARMA(2,2)-blue.svg" alt="Model Type" />
        <img src="https://img.shields.io/badge/Data-2515_Observations-orange.svg" alt="Data Points" />
        <p><strong>Tech Stack:</strong> ARIMA Modeling, Stationarity Testing, Autocorrelation Analysis, Financial Forecasting</p>
@@ -306,6 +344,10 @@
    <td width="50%">
      <h3 align="center">🏥 ICU Critical Condition Detection</h3>
      <div align="center">
+       <a href="https://github.com/PeterOzo/Healthcare-ICU-Critical-Condition-Prediction">
+         <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+       </a>
+       <br>
        <img src="https://img.shields.io/badge/Features-25+_Advanced-green.svg" alt="Features" />
        <img src="https://img.shields.io/badge/Data-MIMIC_III-blue.svg" alt="Dataset" />
        <p><strong>Tech Stack:</strong> Adaptive Predictive Modeling, Clinical Data Engineering, Real-Time Monitoring</p>
@@ -375,9 +417,9 @@
 - **👨‍🏫 Graduate Behavioral Faculty Fellow** - American University distinguished academic recognition
 
 ### 📊 Quantified Research Impact
-- **🎯 Published Research** - 8+ comprehensive project reports with live demonstration platforms
+- **🎯 Published Research** - 10+ comprehensive project repositories with live demonstration platforms
 - **📈 Business Value** - Generated over $15M in projected annual business impact across projects
-- **🚀 Platform Deployment** - 10+ production-ready applications with 99%+ uptime
+- **🚀 Platform Deployment** - 12+ production-ready applications with 99%+ uptime
 - **👥 Student Impact** - Mentored 200+ students in advanced analytics and machine learning
 - **🔬 Innovation Index** - Developed 5+ novel methodologies in ML ensemble techniques
 
@@ -386,21 +428,21 @@
 ## 🔬 Featured Research Contributions
 
 ### 🏥 **Healthcare Technology Innovation**
-**[MyYouthSpan Health App Success Prediction](https://peterchika3254.shinyapps.io/METY_ShinyApp/)**
+**[MyYouthSpan Health App Success Prediction](https://github.com/PeterOzo/App-Success-Prediction-and-Analysis)**
 - **Achievement**: 84.4% prediction accuracy with 187% AI feature impact improvement
 - **Business Impact**: $2.8M projected improvement for METY Technology investment strategy
-- **Innovation**: First clean audio feature approach eliminating synthetic data dependencies
+- **Innovation**: Advanced gradient boosting with comprehensive feature engineering
 - **Publication**: [Comprehensive Executive Report](https://github.com/PeterOzo/App-Success-Prediction-and-Analysis/blob/main/METY-Tech_Paper_and_Shinyapp_Predicting%20Health%20App%20Success.pdf)
 
 ### 🤖 **Advanced AI & Machine Learning**
-**[Speech Emotion Recognition Platform](https://speech-and-text-analytics-platform-kqdgy2ns3bjmhqt9c26ysa.streamlit.app/)**
+**[Speech Emotion Recognition Platform](https://github.com/PeterOzo/Speech-and_Text_Analytics-Platform)**
 - **Technical Excellence**: 82% accuracy using ensemble of XGBoost, LightGBM, Random Forest
 - **Feature Engineering**: 191 clean audio features without synthetic augmentation
 - **Production Ready**: Sub-2-second response times with comprehensive analytics dashboard
 - **Research Paper**: [Complete Technical Documentation](https://github.com/PeterOzo/Speech-and_Text_Analytics-Platform/blob/main/Speech-2_recognitio_comprehensive_paper.pdf)
 
 ### 💰 **Financial Technology Innovation**
-**[Real-Time Auto Loan Pricing Engine](https://aca-pricing-optimization-dashboard-tmcdvlrjildupmaracljvv.streamlit.app/)**
+**[Real-Time Auto Loan Pricing Engine](https://github.com/PeterOzo/Real-Time-Pricing-Optimization-for-Auto-Loans)**
 - **Breakthrough Innovation**: 2,016x faster market intelligence vs traditional methods
 - **Financial Impact**: 5,150% ROI with $5.1M annual revenue improvement
 - **Technical Achievement**: XGBoost 73.47% AUC with real-time competitive intelligence
