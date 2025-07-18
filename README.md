@@ -323,7 +323,7 @@
   </tr>
 </table>
 
-### 📊 Time Series & Forecasting Excellence
+### 📊 Computer Vision & Multimodal AI
 
 <table>
   <tr>
@@ -342,17 +342,17 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🏥 ICU Critical Condition Detection</h3>
+      <h3 align="center">🛡️ HateMemeDetector: Multimodal Hate Speech Detection</h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/Healthcare-Analytics-ICU-Prediction">
+        <a href="https://github.com/PeterOzo/HateMemeDetector">
           <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
         <br>
-        <img src="https://img.shields.io/badge/Features-25+_Advanced-green.svg" alt="Features" />
-        <img src="https://img.shields.io/badge/Data-MIMIC_III-blue.svg" alt="Dataset" />
-        <p><strong>Tech Stack:</strong> Adaptive Predictive Modeling, Clinical Data Engineering, Real-Time Monitoring</p>
-        <p>Developed sophisticated predictive models using MIMIC-III dataset with 25+ engineered clinical features. Applied clustering and segmentation for real-time health monitoring.</p>
-        <p><strong>Healthcare Impact:</strong> Early detection system for critical patient conditions enabling proactive medical intervention.</p>
+        <img src="https://img.shields.io/badge/Accuracy-66.0%25-success.svg" alt="Accuracy" />
+        <img src="https://img.shields.io/badge/F1_Score-0.564-brightgreen.svg" alt="F1-Score" />
+        <p><strong>Tech Stack:</strong> BERT, ResNet50, Multimodal Fusion (CCA/IVA), PyTorch, Computer Vision</p>
+        <p>State-of-the-art multimodal hate speech detection combining BERT text analysis with ResNet50 image processing. Advanced fusion techniques (CCA/IVA) for optimal feature integration.</p>
+        <p><strong>Social Impact:</strong> $3.5M annual value through automated content moderation, brand protection, and regulatory compliance.</p>
       </div>
     </td>
   </tr>
@@ -418,10 +418,10 @@
 
 ### 📊 Quantified Research Impact
 - **🎯 Published Research** - 10+ comprehensive project repositories with live demonstration platforms
-- **📈 Business Value** - Generated over $15M in projected annual business impact across projects
+- **📈 Business Value** - Generated over $18M in projected annual business impact across projects
 - **🚀 Platform Deployment** - 12+ production-ready applications with 99%+ uptime
 - **👥 Student Impact** - Mentored 200+ students in advanced analytics and machine learning
-- **🔬 Innovation Index** - Developed 5+ novel methodologies in ML ensemble techniques
+- **🔬 Innovation Index** - Developed 6+ novel methodologies in ML ensemble techniques and multimodal AI
 
 ---
 
@@ -448,6 +448,13 @@
 - **Technical Achievement**: XGBoost 73.47% AUC with real-time competitive intelligence
 - **Research Publication**: [Executive Technical Report](https://github.com/PeterOzo/Real-Time-Pricing-Optimization-for-Auto-Loans/blob/main/README_Paper_on_Real_Time_Pricing_Optimization_for_Auto_Loans.pdf)
 
+### 🛡️ **Multimodal AI & Computer Vision**
+**[HateMemeDetector: Multimodal Hate Speech Detection](https://github.com/PeterOzo/HateMemeDetector)**
+- **Multimodal Excellence**: 66% accuracy combining BERT (text) and ResNet50 (images) with advanced fusion
+- **Technical Innovation**: First comprehensive comparison of CCA vs IVA fusion techniques
+- **Social Impact**: $3.5M annual value in content moderation and brand protection
+- **Research Significance**: Novel approach to hate speech detection using multimodal deep learning
+
 ---
 
 ## 📊 Recent Analytics Achievements & Business Impact
@@ -462,14 +469,15 @@
 - **COVID-19 Misinformation Detection**: 96.75% accuracy using fine-tuned RoBERTa and Llama models
 - **Financial News Classification**: 82.62% accuracy processing 50,000+ articles with 300x speed improvement
 - **Automated Content Analysis**: 95% reduction in manual processing costs with 24/7 operation capability
+- **Multimodal Hate Detection**: 66% accuracy combining text and image analysis for social media safety
 
 ### 📈 **Financial Modeling & Econometrics**
 - **Monetary Policy Analysis**: VAR(8) modeling of Fed policy transmission with 195 quarterly observations
 - **S&P 500 Forecasting**: ARMA(2,2) specification revealing systematic patterns in market returns
 - **A/B Testing Platform**: 30% false positive reduction with 5x acceleration in campaign velocity
 
-### 🏥 **Healthcare & Biomedical Analytics**
-- **ICU Critical Condition Detection**: Real-time monitoring using MIMIC-III dataset with 25+ clinical features
+### 🏥 **Healthcare & Social Impact Analytics**
+- **Misinformation Detection**: 96.75% accuracy protecting public health through AI-powered content verification
 - **Chronic Illness Cost Analysis**: 15% projected cost reduction through predictive intervention strategies
 - **Health App Market Intelligence**: Strategic analysis supporting $500K investment decision with data-driven validation
 
