@@ -110,7 +110,6 @@
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterOzo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterOzo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
