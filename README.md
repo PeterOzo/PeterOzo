@@ -274,7 +274,7 @@
     <td width="50%">
       <h3 align="center">📰 NLP Financial News Classification</h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/News-Article-Classification-NLP">
+        <a href="https://github.com/PeterOzo/NLP-for-Financial-Text-Analytics">
           <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
         <br>
@@ -293,9 +293,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚖️ SVM Loan Default Prediction with Class Balancing</h3>
+      <h3 align="center">⚖️ Advanced Loan Default Prediction with ML</h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/Advanced-Quantitative-Methods-ML-Finance">
+        <a href="https://github.com/PeterOzo/Advance-ML-Loan-Default-Prediction">
           <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
         <br>
@@ -307,9 +307,9 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🌳 Ensemble Income Prediction Analysis</h3>
+      <h3 align="center">🌳 Advanced ML Income Classification Analysis</h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/Advanced-Quantitative-Methods-ML-Finance">
+        <a href="https://github.com/PeterOzo/Advanced-ML-in-Finance-Income-Classification-">
           <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
         <br>
@@ -330,7 +330,7 @@
     <td width="50%">
       <h3 align="center">📈 S&P 500 ARIMA Time Series Forecasting</h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/Time-Series-Financial-Forecasting">
+        <a href="https://github.com/PeterOzo/Time-Series-Analysis-and-Financial-Forecasting">
           <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
         <br>
