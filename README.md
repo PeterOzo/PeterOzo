@@ -129,6 +129,48 @@
 
 ## 🚀 Enterprise-Grade Project Portfolio
 
+### 🏥 Advanced Healthcare AI & Medical Diagnostics
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 Multimodal Deep Learning for ED Diagnostic Discordance Prediction</h3>
+      <div align="center">
+        <a href="https://github.com/PeterOzo/ML-APPL-IN-MEDICAL-DIAGNOSES">
+          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/AUC-80.7%25-success.svg" alt="AUC Score" />
+        <img src="https://img.shields.io/badge/Recall-70.1%25-green.svg" alt="Recall" />
+        <img src="https://img.shields.io/badge/ECE-1.89%25-blue.svg" alt="Calibration" />
+        <p><strong>Tech Stack:</strong> BiLSTM, Vision Transformer (ViT), PyTorch, MIMIC-IV, Late Fusion Architecture, DINOv2</p>
+        <p>Revolutionary multimodal deep learning framework predicting Emergency Department diagnostic discordance using 50,967 ED admissions. Integrates clinical text (256D BiLSTM embeddings), time-series physiological data (64D transformer features), and chest X-ray imaging (768D ViT embeddings) through learnable softmax-normalized fusion weights.</p>
+        <p><strong>Clinical Impact:</strong> Achieved 0.807 AUC with 70.1% recall and F1-score of 0.528. Isotonic regression calibration achieved ECE of 1.89% for reliable clinical deployment. Comprehensive ablation studies revealed modality contributions: Text (61.4%), Time-Series (21.5%), Imaging (17.1%).</p>
+        <p><strong>Research Significance:</strong> Independent Study (DATA-690) demonstrating value of multimodal integration for clinical decision support and patient safety applications in emergency care settings.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ COVID-19 Misinformation Detection Using NLP</h3>
+      <div align="center">
+        <a href="https://github.com/PeterOzo/NLP-COVID-19-Misinformation-Detection-System">
+          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+        <a href="https://peterchika3254.shinyapps.io/covid-misinformation-detector/">
+          <img src="https://img.shields.io/badge/Live_Demo-Shinyapp_Cloud-brightgreen" alt="Live Demo" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/RoBERTa-96.75%25-success.svg" alt="RoBERTa Accuracy" />
+        <img src="https://img.shields.io/badge/Llama-98.0%25-green.svg" alt="Llama Accuracy" />
+        <img src="https://img.shields.io/badge/AUC_ROC-0.97-blue.svg" alt="AUC-ROC" />
+        <p><strong>Tech Stack:</strong> RoBERTa, Llama-3.2-1B-Instruct, Advanced Transformers, CoAID Dataset, Class Balancing</p>
+        <p>State-of-the-art misinformation detection using fine-tuned transformer models. RoBERTa achieved 96.75% accuracy with 70.5% F1-score for misinformation detection. Llama model achieved 98% accuracy with 0.97 F1-score through fine-tuning, and 82% accuracy with zero-shot prompting.</p>
+        <p><strong>Technical Innovation:</strong> Addressed severe class imbalance (726 reliable vs. 39 misinformation articles) through class weighting (0.52 vs. 9.2) and RandomOverSampler techniques. Bootstrap analysis with 1000 iterations confirmed model robustness.</p>
+        <p><strong>Social Impact:</strong> Course Project (CSC-696) combating health misinformation through AI-powered content verification for public health protection and social media analysis.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ### 🧠 Advanced Machine Learning & AI Solutions
 
 <table>
@@ -170,7 +212,7 @@
   </tr>
 </table>
 
-### 🏥 Healthcare Analytics & Innovation
+### 📱 Healthcare Analytics & Innovation
 
 <table>
   <tr>
@@ -192,30 +234,6 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🛡️ COVID-19 Misinformation Detection System</h3>
-      <div align="center">
-        <a href="https://github.com/PeterOzo/NLP-COVID-19-Misinformation-Detection-System">
-          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-        </a>
-        <a href="https://peterchika3254.shinyapps.io/covid-misinformation-detector/">
-          <img src="https://img.shields.io/badge/Live_Demo-Shinyapp_Cloud-brightgreen" alt="Live Demo" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Accuracy-96.75%25-success.svg" alt="Accuracy" />
-        <img src="https://img.shields.io/badge/AUC_ROC-0.97-green.svg" alt="AUC-ROC" />
-        <p><strong>Tech Stack:</strong> RoBERTa, Llama NLP, Advanced Transformer Models, Dual Classification</p>
-        <p>State-of-the-art misinformation detection using fine-tuned transformer models achieving 96.75% accuracy. Applied advanced NLP techniques for social media analysis and public health protection.</p>
-        <p><strong>Social Impact:</strong> Combating health misinformation through AI-powered content verification and real-time analysis.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-### 💰 Financial Technology & Risk Analytics
-
-<table>
-  <tr>
-    <td width="50%">
       <h3 align="center">🏦 Real-Time Auto Loan Pricing Optimization</h3>
       <div align="center">
         <a href="https://github.com/PeterOzo/Real-Time-Pricing-Optimization-for-Auto-Loans">
@@ -232,6 +250,13 @@
         <p><strong>Financial Impact:</strong> $5.1M annual revenue improvement through dynamic pricing and automated decision-making.</p>
       </div>
     </td>
+  </tr>
+</table>
+
+### 💰 Financial Technology & Advanced Analytics
+
+<table>
+  <tr>
     <td width="50%">
       <h3 align="center">📊 Advanced A/B Testing Platform</h3>
       <div align="center">
@@ -249,13 +274,6 @@
         <p><strong>Business Value:</strong> 5x acceleration in campaign velocity with 3-5% average conversion lift driving millions in incremental revenue.</p>
       </div>
     </td>
-  </tr>
-</table>
-
-### 📈 Advanced Financial Modeling & Research
-
-<table>
-  <tr>
     <td width="50%">
       <h3 align="center">📉 Vector Autoregression (VAR) Monetary Policy Analysis</h3>
       <div align="center">
@@ -270,6 +288,13 @@
         <p><strong>Policy Impact:</strong> Data-driven framework for Federal Reserve decision-making and macroeconomic forecasting.</p>
       </div>
     </td>
+  </tr>
+</table>
+
+### 📈 Advanced Quantitative Research
+
+<table>
+  <tr>
     <td width="50%">
       <h3 align="center">📰 NLP Financial News Classification</h3>
       <div align="center">
@@ -284,13 +309,6 @@
         <p><strong>Operational Value:</strong> 95% reduction in content categorization costs with 24/7 automated processing capability.</p>
       </div>
     </td>
-  </tr>
-</table>
-
-### 🔬 Advanced Quantitative Research
-
-<table>
-  <tr>
     <td width="50%">
       <h3 align="center">⚖️ Advanced Loan Default Prediction with ML</h3>
       <div align="center">
@@ -305,6 +323,13 @@
         <p><strong>Risk Management:</strong> Critical insights for financial institutions on proper model validation and class imbalance handling.</p>
       </div>
     </td>
+  </tr>
+</table>
+
+### 🔬 Computer Vision & Advanced AI
+
+<table>
+  <tr>
     <td width="50%">
       <h3 align="center">🌳 Advanced ML Income Classification Analysis</h3>
       <div align="center">
@@ -319,10 +344,24 @@
         <p><strong>Business Intelligence:</strong> Strategic insights for wealth management, credit scoring, and customer segmentation.</p>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">🛡️ HateMemeDetector: Multimodal Hate Speech Detection</h3>
+      <div align="center">
+        <a href="https://github.com/PeterOzo/AdML-Multimodal-Hate-Speech-Detection">
+          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Accuracy-66.0%25-success.svg" alt="Accuracy" />
+        <img src="https://img.shields.io/badge/F1_Score-0.564-brightgreen.svg" alt="F1-Score" />
+        <p><strong>Tech Stack:</strong> BERT, ResNet50, Multimodal Fusion (CCA/IVA), PyTorch, Computer Vision</p>
+        <p>State-of-the-art multimodal hate speech detection combining BERT text analysis with ResNet50 image processing. Advanced fusion techniques (CCA/IVA) for optimal feature integration.</p>
+        <p><strong>Social Impact:</strong> $3.5M annual value through automated content moderation, brand protection, and regulatory compliance.</p>
+      </div>
+    </td>
   </tr>
 </table>
 
-### 📊 Computer Vision & Multimodal AI
+### 📊 Time Series & Financial Forecasting
 
 <table>
   <tr>
@@ -341,17 +380,9 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🛡️ HateMemeDetector: Multimodal Hate Speech Detection</h3>
+      <h3 align="center"></h3>
       <div align="center">
-        <a href="https://github.com/PeterOzo/AdML-Multimodal-Hate-Speech-Detection">
-          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Accuracy-66.0%25-success.svg" alt="Accuracy" />
-        <img src="https://img.shields.io/badge/F1_Score-0.564-brightgreen.svg" alt="F1-Score" />
-        <p><strong>Tech Stack:</strong> BERT, ResNet50, Multimodal Fusion (CCA/IVA), PyTorch, Computer Vision</p>
-        <p>State-of-the-art multimodal hate speech detection combining BERT text analysis with ResNet50 image processing. Advanced fusion techniques (CCA/IVA) for optimal feature integration.</p>
-        <p><strong>Social Impact:</strong> $3.5M annual value through automated content moderation, brand protection, and regulatory compliance.</p>
+        <p><em>More projects coming soon...</em></p>
       </div>
     </td>
   </tr>
@@ -416,15 +447,30 @@
 - **👨‍🏫 Graduate Behavioral Faculty Fellow** - American University distinguished academic recognition
 
 ### 📊 Quantified Research Impact
-- **🎯 Published Research** - 10+ comprehensive project repositories with live demonstration platforms
-- **📈 Business Value** - Generated over $18M in projected annual business impact across projects
-- **🚀 Platform Deployment** - 12+ production-ready applications with 99%+ uptime
+- **🎯 Published Research** - 12+ comprehensive project repositories with live demonstration platforms
+- **📈 Business Value** - Generated over $20M in projected annual business impact across projects
+- **🚀 Platform Deployment** - 14+ production-ready applications with 99%+ uptime
 - **👥 Student Impact** - Mentored 200+ students in advanced analytics and machine learning
-- **🔬 Innovation Index** - Developed 6+ novel methodologies in ML ensemble techniques and multimodal AI
+- **🔬 Innovation Index** - Developed 8+ novel methodologies in ML ensemble techniques, multimodal AI, and clinical decision support
 
 ---
 
 ## 🔬 Featured Research Contributions
+
+### 🏥 **Advanced Medical AI & Clinical Decision Support**
+**[Multimodal Deep Learning for ED Diagnostic Discordance Prediction](https://github.com/PeterOzo/ML-APPL-IN-MEDICAL-DIAGNOSES)**
+- **Achievement**: 80.7% AUC with 70.1% recall predicting Emergency Department diagnostic errors
+- **Innovation**: Late fusion architecture integrating BiLSTM text (256D), transformer time-series (64D), and ViT imaging (768D)
+- **Clinical Impact**: ECE of 1.89% through isotonic regression calibration for reliable clinical deployment
+- **Research Depth**: Independent Study (DATA-690) with comprehensive ablation studies across 7 model configurations
+- **Publication**: [Complete Technical Documentation](https://github.com/PeterOzo/ML-APPL-IN-MEDICAL-DIAGNOSES)
+
+### 🛡️ **Public Health Informatics & NLP**
+**[COVID-19 Misinformation Detection System](https://github.com/PeterOzo/NLP-COVID-19-Misinformation-Detection-System)**
+- **Technical Excellence**: 96.75% accuracy (RoBERTa) and 98% accuracy (Llama) in detecting health misinformation
+- **Innovation**: Zero-shot prompting achieving 82% accuracy, demonstrating model versatility
+- **Methodology**: Advanced class balancing with RandomOverSampler and 1000-iteration bootstrap validation
+- **Social Impact**: Course Project (CSC-696) supporting public health through AI-powered content verification
 
 ### 🏥 **Healthcare Technology Innovation**
 **[MyYouthSpan Health App Success Prediction](https://github.com/PeterOzo/App-Success-Prediction-and-Analysis)**
@@ -459,13 +505,15 @@
 ## 📊 Recent Analytics Achievements & Business Impact
 
 ### 🎯 **Predictive Analytics Excellence**
+- **ED Diagnostic Discordance**: 80.7% AUC with 70.1% recall through multimodal deep learning
+- **COVID-19 Misinformation**: 96.75-98% accuracy using fine-tuned transformer models (RoBERTa/Llama)
 - **Customer Churn Prediction**: 83.15% AUC with 158.1% ROI through intelligent class balancing
 - **Health App Success**: 84.4% accuracy identifying AI features as 187% impact driver
 - **Financial Risk Assessment**: 73.47% AUC in loan default prediction with real-time market integration
 - **Emotion Recognition**: 82% accuracy across 8 emotion classes using 191 engineered audio features
 
 ### 🧠 **Advanced NLP & Text Analytics**
-- **COVID-19 Misinformation Detection**: 96.75% accuracy using fine-tuned RoBERTa and Llama models
+- **Misinformation Detection**: 96.75% accuracy using fine-tuned RoBERTa with zero-shot capabilities
 - **Financial News Classification**: 82.62% accuracy processing 50,000+ articles with 300x speed improvement
 - **Automated Content Analysis**: 95% reduction in manual processing costs with 24/7 operation capability
 - **Multimodal Hate Detection**: 66% accuracy combining text and image analysis for social media safety
@@ -476,9 +524,10 @@
 - **A/B Testing Platform**: 30% false positive reduction with 5x acceleration in campaign velocity
 
 ### 🏥 **Healthcare & Social Impact Analytics**
-- **Misinformation Detection**: 96.75% accuracy protecting public health through AI-powered content verification
+- **ED Diagnostic Support**: Multimodal framework with 1.89% ECE for reliable clinical predictions
+- **Misinformation Detection**: 96.75-98% accuracy protecting public health through AI content verification
 - **Chronic Illness Cost Analysis**: 15% projected cost reduction through predictive intervention strategies
-- **Health App Market Intelligence**: Strategic analysis supporting $500K investment decision with data-driven validation
+- **Health App Market Intelligence**: Strategic analysis supporting $500K investment decision with data validation
 
 ---
 
