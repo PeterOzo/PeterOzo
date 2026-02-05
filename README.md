@@ -149,38 +149,6 @@
         <p><strong>Research Significance:</strong> Independent Study (DATA-690) demonstrating value of multimodal integration for clinical decision support and patient safety applications in emergency care settings.</p>
       </div>
     </td>
-    <td width="50%">
-
-      <h3 align="center">🔬 Deep Learning for Multi-Disease Chest X-Ray Classification</h3>
-
-      <div align="center">
-
-        <a href="https://github.com/PeterOzo/Computer-Vision-Chest-Xray-Classification-Mimic-CXR-CheXpert">
-
-          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-
-        </a>
-
-        <br>
-
-        <img src="https://img.shields.io/badge/Internal_AUC-76.4%25-success.svg" alt="Internal AUC" />
-
-        <img src="https://img.shields.io/badge/External_AUC-79.7%25-green.svg" alt="External AUC" />
-
-        <img src="https://img.shields.io/badge/Generalization-+4.3%25-blue.svg" alt="Positive Generalization" />
-
-        <p><strong>Tech Stack:</strong> DenseNet-121, EfficientNet-B0, PyTorch, MIMIC-CXR, CheXpert, Transfer Learning, Uncertainty-Aware Loss</p>
-
-        <p>Revolutionary cross-institutional validation of deep learning models for automated chest radiograph interpretation. Trained on 35,000 MIMIC-CXR images from Beth Israel Deaconess Medical Center with zero-shot external validation on 234 CheXpert images from Stanford Hospital.</p>
-
-        <p><strong>Technical Innovation:</strong> Achieved positive generalization (+4.3% AUC improvement) reversing typical 10-25% degradation patterns through uncertainty-aware masked BCE loss and aggressive data augmentation. DenseNet-121 demonstrated exceptional performance on Pleural Effusion (0.891/0.900 AUC), Cardiomegaly (0.862/0.824), and Edema (0.851/0.905).</p>
-
-        <p><strong>Clinical Significance:</strong> First published improvement in cross-institutional chest X-ray classification, demonstrating feasibility of multi-institutional AI deployment. Comprehensive ablation studies revealed class-weighted loss and augmentation strategies as key drivers of robust generalization across 14 thoracic pathologies.</p>
-
-      </div>
-    </td>
-  </tr>
-</table>
 
 ### 🧠 Advanced Machine Learning & AI Solutions
 
