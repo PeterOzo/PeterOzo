@@ -131,7 +131,7 @@
 
 ### 🏥 Advanced Healthcare AI & Medical Diagnostics
 
-    <table>
+<table>
   <tr>
     <td width="50%">
       <h3 align="center">🔬 Deep Learning for Multi-Disease Chest X-Ray Classification</h3>
