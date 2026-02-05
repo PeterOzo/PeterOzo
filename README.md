@@ -398,12 +398,6 @@
         <p><strong>Social Impact:</strong> Course Project (CSC-696) combating health misinformation through AI-powered content verification for public health protection and social media analysis.</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center"></h3>
-      <div align="center">
-        <p><em>More projects coming soon...</em></p>
-      </div>
-    </td>
   </tr>
 </table>
 <div align="center">
