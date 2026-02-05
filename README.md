@@ -394,7 +394,28 @@
     <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
-
+</td>
+    <td width="50%">
+      <h3 align="center">🛡️ COVID-19 Misinformation Detection Using NLP</h3>
+      <div align="center">
+        <a href="https://github.com/PeterOzo/NLP-COVID-19-Misinformation-Detection-System">
+          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+        <a href="https://peterchika3254.shinyapps.io/covid-misinformation-detector/">
+          <img src="https://img.shields.io/badge/Live_Demo-Shinyapp_Cloud-brightgreen" alt="Live Demo" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/RoBERTa-96.75%25-success.svg" alt="RoBERTa Accuracy" />
+        <img src="https://img.shields.io/badge/Llama-98.0%25-green.svg" alt="Llama Accuracy" />
+        <img src="https://img.shields.io/badge/AUC_ROC-0.97-blue.svg" alt="AUC-ROC" />
+        <p><strong>Tech Stack:</strong> RoBERTa, Llama-3.2-1B-Instruct, Advanced Transformers, CoAID Dataset, Class Balancing</p>
+        <p>State-of-the-art misinformation detection using fine-tuned transformer models. RoBERTa achieved 96.75% accuracy with 70.5% F1-score for misinformation detection. Llama model achieved 98% accuracy with 0.97 F1-score through fine-tuning, and 82% accuracy with zero-shot prompting.</p>
+        <p><strong>Technical Innovation:</strong> Addressed severe class imbalance (726 reliable vs. 39 misinformation articles) through class weighting (0.52 vs. 9.2) and RandomOverSampler techniques. Bootstrap analysis with 1000 iterations confirmed model robustness.</p>
+        <p><strong>Social Impact:</strong> Course Project (CSC-696) combating health misinformation through AI-powered content verification for public health protection and social media analysis.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 💼 Professional Experience & Leadership
