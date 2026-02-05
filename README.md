@@ -131,24 +131,6 @@
 
 ### 🏥 Advanced Healthcare AI & Medical Diagnostics
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏥 Multimodal Deep Learning for ED Diagnostic Discordance Prediction</h3>
-      <div align="center">
-        <a href="https://github.com/PeterOzo/ML-APPL-IN-MEDICAL-DIAGNOSES">
-          <img src="https://img.shields.io/badge/GitHub_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/AUC-80.7%25-success.svg" alt="AUC Score" />
-        <img src="https://img.shields.io/badge/Recall-70.1%25-green.svg" alt="Recall" />
-        <img src="https://img.shields.io/badge/ECE-1.89%25-blue.svg" alt="Calibration" />
-        <p><strong>Tech Stack:</strong> BiLSTM, Vision Transformer (ViT), PyTorch, MIMIC-IV, Late Fusion Architecture, DINOv2</p>
-        <p>Revolutionary multimodal deep learning framework predicting Emergency Department diagnostic discordance using 50,967 ED admissions. Integrates clinical text (256D BiLSTM embeddings), time-series physiological data (64D transformer features), and chest X-ray imaging (768D ViT embeddings) through learnable softmax-normalized fusion weights.</p>
-        <p><strong>Clinical Impact:</strong> Achieved 0.807 AUC with 70.1% recall and F1-score of 0.528. Isotonic regression calibration achieved ECE of 1.89% for reliable clinical deployment. Comprehensive ablation studies revealed modality contributions: Text (61.4%), Time-Series (21.5%), Imaging (17.1%).</p>
-        <p><strong>Research Significance:</strong> Independent Study (DATA-690) demonstrating value of multimodal integration for clinical decision support and patient safety applications in emergency care settings.</p>
-      </div>
-    </td>
     <table>
   <tr>
     <td width="50%">
