@@ -208,8 +208,6 @@
         <p><strong>Business Impact:</strong> $2.8M projected annual improvement in customer service, healthcare monitoring, and educational assessment.</p>
       </div>
     </td>
-<table>
-  <tr>
     <td width="50%">
       <h3 align="center">💼 Advanced Customer Churn Prediction Engine</h3>
       <div align="center">
