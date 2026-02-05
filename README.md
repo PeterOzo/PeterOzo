@@ -387,6 +387,12 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  <h3>🔗 Explore Complete Project Portfolio</h3>
+  <a href="https://github.com/PeterOzo?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</div>
 ---
 
 ## 💼 Professional Experience & Leadership
