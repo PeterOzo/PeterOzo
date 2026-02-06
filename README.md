@@ -34,6 +34,7 @@
 
 <br clear="right"/>
 
+**[CV and MSc Transcript (PDF)](https://github.com/PeterOzo/Resume-and-Masters-Degree-Transcript)**
 ---
 
 ## 🏆 Professional Achievements & Certifications
